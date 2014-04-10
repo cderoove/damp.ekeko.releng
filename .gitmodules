@@ -1,0 +1,6 @@
+[submodule "damp.ekeko"]
+	path = damp.ekeko
+	url = git://github.com/cderoove/damp.ekeko.git
+[submodule "damp.ekeko.snippets"]
+	path = damp.ekeko.snippets
+	url = git://github.com/cderoove/damp.ekeko.snippets.git

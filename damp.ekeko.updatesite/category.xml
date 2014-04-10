@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/damp.ekeko.feature_2.0.9.qualifier.jar" id="damp.ekeko.feature" version="2.0.9.qualifier">
+      <category name="damp.ekeko.category.analysis"/>
+   </feature>
+   <feature url="features/damp.ekeko.visualizer.feature_1.0.2.qualifier.jar" id="damp.ekeko.visualizer.feature" version="1.0.2.qualifier">
+      <category name="damp.ekeko.category.visualization"/>
+   </feature>
+   <category-def name="damp.ekeko.category.analysis" label="Ekeko-based Program Analysis">
+      <description>
+         Tools for analyzing programs.
+      </description>
+   </category-def>
+   <category-def name="damp.ekeko.category.transformation" label="Ekeko-based Program Transformation">
+      <description>
+         Tools for transforming programs.
+      </description>
+   </category-def>
+   <category-def name="damp.ekeko.category.visualization" label="Ekeko-based Program Visualization">
+      <description>
+         Tools for visualizing programs.
+      </description>
+   </category-def>
+</site>
