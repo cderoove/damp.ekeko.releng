@@ -4,9 +4,9 @@
     
     <modelVersion>4.0.0</modelVersion>
     
-    <groupId>damp.ekeko.snippets</groupId>
-    <artifactId>damp.ekeko.snippets</artifactId>
-    <version>1.0.4-SNAPSHOT</version> <!-- bump this -->
+    <groupId>damp.ekeko</groupId>
+    <artifactId>damp.ekeko.releng</artifactId>
+    <version>2.0.9-SNAPSHOT</version> <!-- bump this -->
     
     
     <packaging>pom</packaging>
