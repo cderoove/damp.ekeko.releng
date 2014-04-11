@@ -13,6 +13,7 @@
     <modules>
         <module>./damp.ekeko</module>
         <module>./damp.ekeko.updatesite</module>
+        <module>./damp.ekeko.snippets</module>
     </modules>
     
     
