@@ -3,7 +3,7 @@ jdk:
   - oraclejdk8
 script: mvn clean verify
 before_script:
-  - cp shconfig ~/.ssh/config
+  - cp sshconfig ~/.ssh/config
   - cp settings.xml ~/.m2/
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
