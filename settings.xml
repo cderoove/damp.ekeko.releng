@@ -11,7 +11,7 @@
     <server>
       <id>soft</id>
       <username>cderoove</username>
-      <password>{H4i5IynwPdkHfN9j/4uX1SQT/HUXY1Bd6UsxTtdLkOE=}</password>
+      <password>{7op1sZgkXfwH3JnEAXTGr2hpG5WtqcXT2fT/CPH5Pc8=}</password>
     <configuration>
       <knownHostsProvider implementation="org.apache.maven.wagon.providers.ssh.knownhost.NullKnownHostProvider">
       <hostKeyChecking>no</hostKeyChecking>

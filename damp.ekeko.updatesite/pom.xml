@@ -30,7 +30,7 @@
    <properties>
     <!-- Properties relative to the 
     distant host where to upload the repo -->
-    <url>scp://soft.vub.ac.be/home/cderoove/public_html/eclipse_test/</url>
+    <url>scp://soft.vub.ac.be/home/cderoove/public_html/eclipse/</url>
     <!-- Relative path to the repo being uploaded -->
     <repo.path>${project.build.directory}/repository/</repo.path>
    </properties>
