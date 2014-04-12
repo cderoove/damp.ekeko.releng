@@ -6,3 +6,7 @@
 	path = damp.ekeko.snippets
 	url = git://github.com/cderoove/damp.ekeko.snippets.git
 	branch = master
+[submodule "damp.ekeko.aspectj"]
+	path = damp.ekeko.aspectj
+	url = git://github.com/cderoove/damp.ekeko.aspectj.git
+	branch = master

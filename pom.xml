@@ -12,8 +12,9 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>./damp.ekeko</module>
-		<module>./damp.ekeko.updatesite</module>
 		<module>./damp.ekeko.snippets</module>
+		<module>./damp.ekeko.aspectj</module>
+		<module>./damp.ekeko.updatesite</module>	
 	</modules>
 
 
@@ -35,8 +36,11 @@
 			<url>http://updatesite.ccw-ide.org/stable</url>
 			<layout>p2</layout>
 		</repository>
-
-
+		<repository>
+			<id>AJDT 4.3</id>
+			<url>http://download.eclipse.org/tools/ajdt/43/update</url>
+			<layout>p2</layout>
+		</repository>
 	</repositories>
 
 	<distributionManagement>
