@@ -12,12 +12,6 @@
       <id>soft</id>
       <username>cderoove</username>
       <password>{7op1sZgkXfwH3JnEAXTGr2hpG5WtqcXT2fT/CPH5Pc8=}</password>
-    <configuration>
-      <knownHostsProvider implementation="org.apache.maven.wagon.providers.ssh.knownhost.NullKnownHostProvider">
-      <hostKeyChecking>no</hostKeyChecking>
-    </knownHostsProvider>
-  </configuration>
-
     </server>
   </servers>
   <mirrors/>
