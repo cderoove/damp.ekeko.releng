@@ -6,11 +6,11 @@
    <feature url="features/damp.ekeko.visualizer.feature_1.0.2.qualifier.jar" id="damp.ekeko.visualizer.feature" version="1.0.2.qualifier">
       <category name="damp.ekeko.category.visualization"/>
    </feature>
-   <feature url="features/damp.ekeko.snippets.feature_1.0.4.qualifier.jar" id="damp.ekeko.snippets.feature" version="1.0.4.qualifier">
-      <category name="damp.ekeko.category.transformation"/>
-   </feature>
    <feature url="features/damp.ekeko.aspectj.feature_1.0.4.qualifier.jar" id="damp.ekeko.aspectj.feature" version="1.0.4.qualifier">
       <category name="damp.ekeko.category.analysis"/>
+   </feature>
+   <feature url="features/damp.ekeko.snippets.feature_1.0.5.qualifier.jar" id="damp.ekeko.snippets.feature" version="1.0.5.qualifier">
+      <category name="damp.ekeko.category.transformation"/>
    </feature>
    <category-def name="damp.ekeko.category.analysis" label="Ekeko-based Program Analysis">
       <description>
