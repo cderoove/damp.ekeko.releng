@@ -10,3 +10,7 @@
 	path = damp.ekeko.aspectj
 	url = git://github.com/cderoove/damp.ekeko.aspectj.git
 	branch = master
+[submodule "damp.qwalkeko"]
+	path = damp.qwalkeko
+	url = https://github.com/ReinoutStevens/damp.qwalkeko.git
+	branch = master
