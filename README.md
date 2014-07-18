@@ -34,7 +34,7 @@ The following instructions assume you are working on a local working copy of thi
 
 - If desired, the ``deploy`` script can be run to deploy all resulting Eclipse plugins to the Eclipse update-site: [http://soft.vub.ac.be/~cderoove/eclipse](http://soft.vub.ac.be/~cderoove/eclipse)
 
-- If desired, update ``.travis.cl`` to be notified by e-mail about the status future builds (see ) 
+- If desired, update ``.travis.cl`` to be notified by e-mail about the status future builds  
 
 ###  Known issues
 

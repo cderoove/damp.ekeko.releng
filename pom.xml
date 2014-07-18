@@ -14,6 +14,7 @@
 		<module>./damp.ekeko</module>
 		<module>./damp.ekeko.snippets</module>
 		<module>./damp.ekeko.aspectj</module>
+		<module>./damp.qwalkeko</module>
 		<module>./damp.ekeko.updatesite</module>	
 	</modules>
 
