@@ -14,3 +14,7 @@
 	path = damp.qwalkeko
 	url = https://github.com/ReinoutStevens/damp.qwalkeko.git
 	branch = master
+[submodule "ChangeNodes"]
+	path = ChangeNodes
+	url = git://github.com/ReinoutStevens/ChangeNodes.git
+	branch = master
