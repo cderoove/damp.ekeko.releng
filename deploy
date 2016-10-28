@@ -1,1 +1,1 @@
-mvn install -DskipTests -P uploadRepo 
+mvn clean install -DskipTests -P uploadRepo 
