@@ -32,9 +32,14 @@ The following instructions assume you are working on a local working copy of thi
 
 - Committing and pushing your changes will trigger a new build at [https://travis-ci.org/cderoove/damp.ekeko.releng](https://travis-ci.org/cderoove/damp.ekeko.releng),
 
-- If desired, the ``deploy`` script can be run to deploy all resulting Eclipse plugins to the Eclipse update-site: [http://soft.vub.ac.be/~cderoove/eclipse](http://soft.vub.ac.be/~cderoove/eclipse)
-
 - If desired, update ``.travis.cl`` to be notified by e-mail about the status future builds  
+
+###  Deployment to the Eclipse update site
+
+To deploy the latest version of Ekeko and all Ekeko-related plugins to the Eclipse update site ([http://soft.vub.ac.be/~cderoove/eclipse](http://soft.vub.ac.be/~cderoove/eclipse)):
+- Run the script to pull the latest version of all plugins from their repositories:
+``./update_root_and_submodules``
+- Run the ``./deploy`` script.
 
 ###  Known issues
 
